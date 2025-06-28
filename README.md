@@ -1,8 +1,8 @@
-# 🌾 GrainPalette - Rice Type Classification
+# 🌾 GrainPalette - A Deep Learning Odyssey in Rice Type Classification
 
 An advanced AI-powered rice classification system built with Streamlit and TensorFlow. This application helps farmers, agricultural scientists, and rice enthusiasts identify different varieties of rice grains using computer vision and deep learning.
 
-![Rice Classification Demo](https://img.shields.io/badge/Model-TensorFlow-orange) ![Framework](https://img.shields.io/badge/Framework-Streamlit-red) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Rice Classification Demo](https://img.shields.io/badge/Model-TensorFlow-orange) ![Framework](https://img.shields.io/badge/Framework-Streamlit-red) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🎯 Features
 
@@ -151,80 +151,35 @@ python evaluate_model.py
 - [ ] Multi-language support
 - [ ] Advanced analytics dashboard
 
-## 👥 Team
+## 👥 **Contributors**
 
-**🎓 Aditya College of Engineering Madanapalle, JNTUA - Computer Science & Engineering**
+This project was developed by a talented team from Aditya College of Engineering, Madanapalle:
 
-- **Saket Kumar** - Team Leader & Project Developer (B.Tech 3rd Year)
-- **Shaik Kalesha** - Team Member (B.Tech 3rd Year)  
-- **Shaik Asfiya Anjum** - Team Member (B.Tech 3rd Year)
-- **Shaik Thasmiya** - Team Member (B.Tech 3rd Year)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- TensorFlow team for the excellent ML framework
-- Streamlit for the amazing web app framework
-- MobileNetV2 team for the pre-trained model
-- Agricultural research community for inspiration
-- Aditya College of Engineering Madanapalle for support
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [troubleshooting section](#-troubleshooting) below
-2. Run `python test_system.py` to diagnose problems
-3. Open an issue on GitHub
-4. Contact: [Your GitHub Profile]
-
-## 🔧 Troubleshooting
-
-### Common Issues
-
-**Model Loading Error**
-```bash
-# Solution: Ensure rice.keras file is in the project root
-# Check if file exists and is not corrupted
-python -c "import os; print('Model exists:', os.path.exists('rice.keras'))"
-```
-
-**Package Installation Error**
-```bash
-# Solution: Upgrade pip and try again
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-**Streamlit Not Found**
-```bash
-# Solution: Use python -m streamlit instead
-python -m streamlit run app.py
-```
-
-**Memory Error**
-```bash
-# Solution: Close other applications to free up RAM
-# The model requires at least 2GB available memory
-```
-
-**Port Already in Use**
-```bash
-# Solution: Use a different port
-python -m streamlit run app.py --server.port 8502
-```
+- **Saket Kumar** - Team Leader & Project Developer (B.Tech 3rd year, CSE, JNTUA)
+- **Shaik Kalesha** - Team Member (B.Tech 3rd year, CSE, JNTUA)  
+- **Shaik Asfiya Anjum** - Team Member (B.Tech 3rd year, CSE, JNTUA)
+- **Shaik Thasmiya** - Team Member (B.Tech 3rd year, CSE, JNTUA)
 
 ---
 
-**🌾 Made with ❤️ by Saket Kumar & Team | © 2025**
+## 📄 **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 **Acknowledgments**
+
+- TensorFlow and TensorFlow Hub teams for the amazing ML frameworks
+- Streamlit team for the intuitive web app framework  
+- The open-source community for various tools and libraries used
+- Aditya College of Engineering, Madanapalle for academic support
+
+## 📬 **Contact**
+
+For questions, suggestions, or collaboration opportunities, please reach out:
+
+- **GitHub**: [@Saket8538](https://github.com/Saket8538)
+- **Repository**: [GrainPalette](https://github.com/Saket8538/Grainpalette-A-Deep-Learning-Odyssey-in-Rice-Type-Classification)
+
+---
+
+**Made with ❤️ by Team GrainPalette | © 2025**
