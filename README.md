@@ -19,7 +19,7 @@ An advanced AI-powered rice classification system built with Streamlit and Tenso
 ### Option 1: Streamlit App (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SBIgrainpallate.git
+git clone https://github.com/Saket8538/Grainpalette-A-Deep-Learning-Odyssey-in-Rice-Type-Classification.git
 cd SBIgrainpallate
 
 # Install dependencies
